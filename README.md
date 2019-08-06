@@ -24,7 +24,7 @@ jQuery
 Slick Slider    
 [Docs](https://kenwheeler.github.io/slick/)
 
-Dinero.js (Best for money formatting and calculation)    
+Dinero.js (Best for money formatting and calculation was created and maintained by a big bank)    
 [Docs](https://sarahdayan.github.io/dinero.js/)
 
 Lodash    
@@ -78,7 +78,7 @@ Root Sage (WordPress Framework (Advanced Devs)
 Better Search and Replace *      
 [Docs](https://wordpress.org/plugins/better-search-replace/)
 
-Debug Bar     
+Debug Bar *     
 [Docs](https://wordpress.org/plugins/debug-bar/)
 
 
