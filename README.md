@@ -33,6 +33,9 @@ Lodash
 
 ## Vue Frameworks & libraries
 
+Vee Validate    
+[Docs](https://baianat.github.io/vee-validate/)
+
 VueJs    
 [Docs](https://bootstrap-vue.js.org/docs)
 
