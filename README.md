@@ -16,6 +16,9 @@ Smooth Scroll
 JumpJs    
 [Docs](https://github.com/callmecavs/jump.js)
 
+Retinajs    
+[Docs](http://imulus.github.io/retinajs/)
+
 ## jQuery Frameworks & libraries
 
 jQuery    
