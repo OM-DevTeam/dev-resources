@@ -1,7 +1,7 @@
 # Development Tools & Resources
 
-WebPack *Configured by by Kenny    
-[Docs](https://github.com/orlando-marketers/webpack-starter)   
+WebPack      
+[Docs](https://webpack.js.org/)   
 
 ### Frameworks
 
