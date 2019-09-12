@@ -1,25 +1,68 @@
 # Development Tools & Resources
 
-WebPack      
-[Docs](https://webpack.js.org/)   
+## WordPress
 
-### Frameworks
+WordPress    
+[Docs](https://codex.wordpress.org/Developer_Documentation)
 
-BootStrap 4    
+WordPress CLI    
+[Docs](https://wp-cli.org/)
+
+### Theme Boilerplates / Theme starters
+
+Underscores  
+[Website](https://underscores.me/)
+
+Root Sage (WordPress Framework (Highly Advanced)     
+[Docs](https://roots.io/sage/)
+
+### Developer Plugins
+Items marked * should not be included on the clients live site development use only the rest are based on project scope.
+
+Migrate DB Pro    
+[Docs](https://deliciousbrains.com/wp-migrate-db-pro/)
+
+Advanced Custom Fields            
+[Docs](https://www.advancedcustomfields.com/)
+
+Better Search and Replace *      
+[Docs](https://wordpress.org/plugins/better-search-replace/)
+
+Debug Bar *     
+[Docs](https://wordpress.org/plugins/debug-bar/)
+
+Easy WP SMTP    
+[link](https://wordpress.org/plugins/easy-wp-smtp/)
+
+GravityForms    
+[docs](https://docs.gravityforms.com/)
+
+Safe SVG (Needed for svg uploads support)     
+[link](https://wordpress.org/plugins/safe-svg/)
+
+## Frameworks
+
+### SCSS / CSS
+
+BootStrap 4 (We don't use use the css we import via scss)   
 [Docs](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
-## Non Specific Frameworks & libraries
+### Javascript
 
-Smooth Scroll       
-[Docs](https://github.com/cferdinandi/smooth-scroll)
-
-JumpJs    
-[Docs](https://github.com/callmecavs/jump.js)
+Lodash    
+[Docs](https://lodash.com/)
 
 Retinajs    
 [Docs](http://imulus.github.io/retinajs/)
 
-## jQuery Frameworks & libraries
+Smooth Scroll       
+[Docs](https://github.com/cferdinandi/smooth-scroll)
+
+Dinero.js (Best for money formatting and calculation was created and maintained by a big bank)    
+[Docs](https://sarahdayan.github.io/dinero.js/)
+
+
+### jQuery Frameworks & libraries
 
 jQuery    
 [Docs](https://jquery.com/)
@@ -27,14 +70,8 @@ jQuery
 Slick Slider    
 [Docs](https://kenwheeler.github.io/slick/)
 
-Dinero.js (Best for money formatting and calculation was created and maintained by a big bank)    
-[Docs](https://sarahdayan.github.io/dinero.js/)
 
-Lodash    
-[Docs](https://lodash.com/)
-
-
-## Vue Frameworks & libraries
+### Vue Frameworks & libraries
 
 Vee Validate    
 [Docs](https://baianat.github.io/vee-validate/)
@@ -59,35 +96,6 @@ Vuex
 
 Vue the mask    
 [Docs](https://vuejs-tips.github.io/vue-the-mask/)
-
-## WordPress
-
-Items Marked with * should not be included on the clients site only for devleopment stage.
-
-Advanced Customs Fields should not be included as a plugin on a live site instead import / include only the needed files and the menu should never be visiable to the client unless they already had it installed. Until I create a plugin for this.
-
-WordPress    
-[Docs](https://codex.wordpress.org/Developer_Documentation)
-
-WordPress CLI    
-[Docs](https://wp-cli.org/)
-
-Migrate DB Pro    
-[Docs](https://deliciousbrains.com/wp-migrate-db-pro/)
-
-Advanced Custom Fields *         
-[Docs](https://www.advancedcustomfields.com/)
-
-Root Sage (WordPress Framework (Advanced Devs)     
-[Docs](https://roots.io/sage/)
-
-Better Search and Replace *      
-[Docs](https://wordpress.org/plugins/better-search-replace/)
-
-Debug Bar *     
-[Docs](https://wordpress.org/plugins/debug-bar/)
-
-
 
 ## Laravel Frameworks & libraries
 
