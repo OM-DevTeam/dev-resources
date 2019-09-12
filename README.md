@@ -44,7 +44,7 @@ Safe SVG (Needed for svg uploads support)
 
 ### SCSS / CSS
 
-BootStrap 4 (We don't use use the css we import via scss)   
+BootStrap 4 (We don't use the css we import via scss)   
 [Docs](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 ### Javascript
