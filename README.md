@@ -1,5 +1,7 @@
 # Development Tools & Resources
 
+
+
 ## WordPress
 
 WordPress    
@@ -50,16 +52,31 @@ BootStrap 4 (We don't use the css we import via scss)
 ### Javascript
 
 Lodash    
+Utility library delivering consistency, modularity, performance, & extras.   
 [Docs](https://lodash.com/)
 
 Retinajs    
 [Docs](http://imulus.github.io/retinajs/)
 
 Smooth Scroll       
+Smooth Scrolling   
 [Docs](https://github.com/cferdinandi/smooth-scroll)
 
-Dinero.js (Best for money formatting and calculation was created and maintained by a big bank)    
-[Docs](https://sarahdayan.github.io/dinero.js/)
+Algolia Places   
+Turn any input into an address autocomplete   
+[Docs](https://community.algolia.com/places/)
+
+Bideo    
+* Fullscreen HTML5 Background Video      
+[Docs](https://github.com/rishabhp/bideo.js)
+
+Dinero.js   
+Money format    
+[Docs](https://sarahdayan.github.io/dinero.js/)   
+
+Moment   
+Parse, validate, manipulate, and display dates and times    
+[Docs](https://momentjs.com/)  
 
 
 ### jQuery Frameworks & libraries
