@@ -67,7 +67,7 @@ Turn any input into an address autocomplete
 [Docs](https://community.algolia.com/places/)
 
 Bideo    
-* Fullscreen HTML5 Background Video      
+Fullscreen HTML5 Background Video      
 [Docs](https://github.com/rishabhp/bideo.js)
 
 Dinero.js   
@@ -89,6 +89,15 @@ Slick Slider
 
 
 ### Vue Frameworks & libraries
+
+Vue2 Filters    
+[Docs](https://github.com/freearhey/vue2-filters)
+
+Vue Cookies    
+[Docs](https://github.com/cmp-cc/vue-cookies)
+
+Vue Session    
+[Docs](https://github.com/victorsferreira/vue-session)
 
 Vee Validate    
 [Docs](https://baianat.github.io/vee-validate/)
