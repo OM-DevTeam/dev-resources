@@ -90,6 +90,9 @@ Slick Slider
 
 ### Vue Frameworks & libraries
 
+vue-select2     
+[Docs](https://vue-select.org/)    
+
 Vue2 Filters    
 [Docs](https://github.com/freearhey/vue2-filters)
 
