@@ -90,6 +90,9 @@ Slick Slider
 
 ### Vue Frameworks & libraries
 
+vue2-datepicker    
+[Docs](https://github.com/mengxiong10/vue2-datepicker)  
+
 vue-select2     
 [Docs](https://vue-select.org/)    
 
