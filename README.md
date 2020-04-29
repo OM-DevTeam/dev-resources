@@ -90,6 +90,9 @@ Slick Slider
 
 ### Vue Frameworks & libraries
 
+pretty-checkbox-vue    
+[Docs](https://github.com/hamed-ehtesham/pretty-checkbox-vue) 
+
 vue2-datepicker    
 [Docs](https://github.com/mengxiong10/vue2-datepicker)  
 
