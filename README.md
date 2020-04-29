@@ -49,6 +49,9 @@ Safe SVG (Needed for svg uploads support)
 BootStrap 4 (We don't use the css we import via scss)   
 [Docs](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
+Pretty Checkbox  
+[Docs](https://github.com/lokesh-coder/pretty-checkbox)
+
 ### Javascript
 
 Lodash    
